@@ -17,3 +17,8 @@ const abalkrsdasdasdasdsadadasdsdad= "200000";
 sdasdasdasdsadadasdsdada
  asdasdasdsadadasdsdadasd
 // dasdasdsadadasdsdadasdafsdfsdfsdf asdsadadasdsdadasdadasd
+
+
+function test(params) {
+    alert(params)
+}
